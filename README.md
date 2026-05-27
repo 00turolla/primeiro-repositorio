@@ -48,8 +48,7 @@ Ele transforma uma pasta comum do computador em um repositório Git, permitindo 
   - Permite o controle de versões dos arquivos.
   - Habilita a execução dos comandos Git dentro do diretório.
 
-- git add
-
+# git add
 git add é um comando utilizado no git.
 
 O git add prepara as alterações realizadas nos arquivos para serem registradas.
@@ -59,10 +58,14 @@ O git add prepara as alterações realizadas nos arquivos para serem registradas
   - Adiciona os arquivos à área de stage\área de prepapação.
   - Define quais mudanças serão registradas.
 
-PARTE DO TAKEO
+# git statusd ~ takeo
+gits status é um comando utilizado para verioficar o estado atual do repositorio no git
 
-
-
+- principais caracteristicas
+  - mostra arquivos modificados
+  - arquivos prontos para commit
+  - arquivos não rastreados
+  - situação da "branch"
 
 # Git config ~ Lucas
 
@@ -94,6 +97,16 @@ O git commit salva alterações feitas pelo git add no histórico do projeto.
 
 # git log ~ eyck
 git log é um comando que mostra a lista cronologica do historico de commits
+
+# GitHub ~ turolla
+GitHub é a maior plataforma online para armazenar, compartilhar e gerenciar projetos de programação, facilitando o trabalho e organização da equipe   
+
+- principais caracteristicas
+  -armazenamento de nuvem
+  -controle de projeto na nuvem
+  -controle de versões anteriores e atuais com o git
+  -trabalho organizado e colaborativo
+
 
 # Bitbucket ~ Lucas
 
