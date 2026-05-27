@@ -41,7 +41,7 @@ git é um **sistema de armezenamento** de versoes de um codigo-fonte
 O comando git init normalmente é o primeiro comando utilizado em um projeto Git.
 Ele transforma uma pasta comum do computador em um repositório Git, permitindo o controle de versões dos arquivos e a execução dos comandos do Git no diretório.
 
-- principais caracyteristicas
+- principais caracteristicas
   - Geralmente é o primeiro comando utilizado no Git.
   - Transforma uma pasta comum em um repositório Git.
   - Cria uma pasta oculta chamada .git
@@ -92,6 +92,21 @@ O git commit salva alterações feitas pelo git add no histórico do projeto.
 
 # git log ~ eyck
 git log é um comando que mostra a lista cronologica do historico de commits
+
+# Bitbucket ~ Lucas
+
+- Descrição
+ - é uma plataforma de hospedagem de codigo-fonte baseado no git
+ - Utilidad
+ - oferece um ambiente centralizado para equipes de desenvolvimento
+ - armazena, revisa e gerencia projetos de software
+ - oferece recursos essenciais para o ciclo do desenvolvimentos de software
+- funções
+  - Gerenciamento de Código
+  - Revisão de Código (Pull Requests)
+  - Automação de CI/CD (Bitbucket Pipelines
+  - Rastreamento de Problemas (Issues)
+  - Integração com ecossistema Atlassian
 
 # Azure ~ turolla
 
