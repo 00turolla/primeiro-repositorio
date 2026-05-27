@@ -31,10 +31,10 @@ Eyck, Julio, Lucas, Takeo, Turolla.
 
 # Azure
 
-Azure é uma ferramenta do **Azure DevOps**
+Azure é uma ferramenta do **Azure DevOps** que permite usuarios armazenarem e gerenciar versionar um codigo-fonte de projetos de software, permitindo que equipes trabalhem em conjunto
 
 - principais caracteristicas
-  - oferece suporte ao git (permite trabalhar offline e sncronizar nuvem)
+  - oferece suporte ao git (permite trabalhar offline e sincronizar nuvem)
   - seus repositorios da nuvem sao gratuitos
   - permite uma equipe com diversos membros trabalhar na revisão de um codigo
   - Oferece suporte ao Team Foundation Version Control (TFVC).
