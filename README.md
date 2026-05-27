@@ -1,8 +1,7 @@
 # primeiro-repositorio
 
 
-eyck, julio, lucas, pedro takeo, pedro turolla.
-
+Eyck, Julio, Lucas, Takeo, Turolla.
 
 
 - Git - Sistema de controle de versões distribuído
@@ -32,8 +31,11 @@ eyck, julio, lucas, pedro takeo, pedro turolla.
 
 # Azure
 
+Azure é uma ferramenta do **Azure DevOps**
+
 - principais caracteristicas
   - oferece suporte ao git (permite trabalhar offline e sncronizar nuvem)
   - seus repositorios da nuvem sao gratuitos
   - permite uma equipe com diversos membros trabalhar na revisão de um codigo
+  - Oferece suporte ao Team Foundation Version Control (TFVC).
   
