@@ -32,6 +32,7 @@ eyck, julio, lucas, pedro takeo, pedro turolla.
 
 # Azure
 
-- principais funções
-  -ocopo
+- principais caracteristicas
+  - oferece suporte ao git (permite trabalhar offline e sncronizar nuvem)
+  - seus repositorios da nuvem sao gratuitos
   
