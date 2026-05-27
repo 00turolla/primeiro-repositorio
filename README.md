@@ -103,9 +103,9 @@ GitHub é a maior plataforma online para armazenar, compartilhar e gerenciar pro
 
 - principais caracteristicas
   -armazenamento de nuvem
-  -controle de projeto na nuvem
-  -controle de versões anteriores e atuais com o git
-  -trabalho organizado e colaborativo
+  - controle de projeto na nuvem
+  - controle de versões anteriores e atuais com o git
+  - trabalho organizado e colaborativo
 
 
 # Bitbucket ~ Lucas
