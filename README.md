@@ -49,7 +49,9 @@ Ele transforma uma pasta comum do computador em um repositório Git, permitindo 
   - Habilita a execução dos comandos Git dentro do diretório.
 
 - git add
-git add é um comando utilizado no git. 
+
+git add é um comando utilizado no git.
+
 O git add prepara as alterações realizadas nos arquivos para serem registradas.
 
 - principais caracteristicas
