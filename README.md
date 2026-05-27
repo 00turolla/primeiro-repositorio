@@ -85,10 +85,10 @@ PARTE DO TAKEO
 git commit é um comando utilizado no git. 
 O git commit salva alterações feitas pelo git add no histórico do projeto.
 
-git commit;
-- Registra as alterações no histórico do projeto.
-- Cria um ponto de salvamento/versionamento.
-- Normalmente é usado após o git add.
+-git commit
+   - Registra as alterações no histórico do projeto.
+   - Cria um ponto de salvamento/versionamento.
+   - Normalmente é usado após o git add.
 
 # git log ~ eyck
 git log é um comando que mostra a lista cronologica do historico de commits
