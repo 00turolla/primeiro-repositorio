@@ -41,12 +41,12 @@ git é um **sistema de armezenamento** de versoes de um codigo-fonte
 O comando git init normalmente é o primeiro comando utilizado em um projeto Git.
 Ele transforma uma pasta comum do computador em um repositório Git, permitindo o controle de versões dos arquivos e a execução dos comandos do Git no diretório.
 
-git init;
-- Geralmente é o primeiro comando utilizado no Git.
-- Transforma uma pasta comum em um repositório Git.
-- Cria uma pasta oculta chamada .git
-- Permite o controle de versões dos arquivos.
-- Habilita a execução dos comandos Git dentro do diretório.
+- principais caracyteristicas
+  - Geralmente é o primeiro comando utilizado no Git.
+  - Transforma uma pasta comum em um repositório Git.
+  - Cria uma pasta oculta chamada .git
+  - Permite o controle de versões dos arquivos.
+  - Habilita a execução dos comandos Git dentro do diretório.
 
 # git add 
 git add é um comando utilizado no git. 
@@ -85,7 +85,7 @@ PARTE DO TAKEO
 git commit é um comando utilizado no git. 
 O git commit salva alterações feitas pelo git add no histórico do projeto.
 
--git commit
+- principais caracteristicas
    - Registra as alterações no histórico do projeto.
    - Cria um ponto de salvamento/versionamento.
    - Normalmente é usado após o git add.
