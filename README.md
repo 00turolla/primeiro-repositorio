@@ -35,4 +35,5 @@ eyck, julio, lucas, pedro takeo, pedro turolla.
 - principais caracteristicas
   - oferece suporte ao git (permite trabalhar offline e sncronizar nuvem)
   - seus repositorios da nuvem sao gratuitos
+  - permite uma equipe com diversos membros trabalhar na revisão de um codigo
   
