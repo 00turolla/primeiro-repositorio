@@ -27,7 +27,15 @@ Eyck, Julio, Lucas, Takeo, Turolla.
 ---
 
 
+# git
 
+git é um sistema de armezenamento de versoes de um codigo-fonte  
+
+- principais caracteristicas
+  -controle de versões
+  -gerencia todos arquivos em uma pasta
+  -distribuido
+  -permite controle do projeto em diferentes compurtadores atraves de um "clone" do projeto 
 
 # Azure
 
