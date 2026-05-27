@@ -58,7 +58,7 @@ O git add prepara as alterações realizadas nos arquivos para serem registradas
   - Adiciona os arquivos à área de stage\área de prepapação.
   - Define quais mudanças serão registradas.
 
-# git statusd ~ takeo
+# git status ~ takeo
 gits status é um comando utilizado para verioficar o estado atual do repositorio no git
 
 - principais caracteristicas
