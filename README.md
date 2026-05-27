@@ -1,7 +1,4 @@
 # primeiro-repositorio
 
-```
-sim
 
-
-```
+eyck, julio, lucas, pedro takeo, pedro turolla
