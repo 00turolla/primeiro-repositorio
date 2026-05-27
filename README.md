@@ -26,3 +26,11 @@ eyck, julio, lucas, pedro takeo, pedro turolla.
 	- 7.3. Resolução de conflitos
 
 ---
+
+
+
+
+#Azure
+
+-principais funções
+       -c
