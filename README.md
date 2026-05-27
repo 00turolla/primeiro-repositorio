@@ -112,7 +112,6 @@ GitHub é a maior plataforma online para armazenar, compartilhar e gerenciar pro
 
 - Descrição
  - é uma plataforma de hospedagem de codigo-fonte baseado no git
- - Utilidad
  - oferece um ambiente centralizado para equipes de desenvolvimento
  - armazena, revisa e gerencia projetos de software
  - oferece recursos essenciais para o ciclo do desenvolvimentos de software
