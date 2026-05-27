@@ -21,8 +21,6 @@ Eyck, Julio, Lucas, Takeo, Turolla.
 		- 7.1.1.Github
 		- 7.1.2.BitBucket
 		- 7.1.3.Azure Repository
-	- 7.2. Pull Requests
-	- 7.3. Resolução de conflitos
 
 ---
 
@@ -50,19 +48,50 @@ git init;
 - Permite o controle de versões dos arquivos.
 - Habilita a execução dos comandos Git dentro do diretório.
 
-# git add and git commit:
-git add e git commit são comandos normalmente utilizados em conjunto. 
-O git add prepara as alterações realizadas nos arquivos para serem registradas. Já o git commit salva essas alterações no histórico do projeto.
+# git add 
+git add é um comando utilizado no git. 
+O git add prepara as alterações realizadas nos arquivos para serem registradas.
 
 git add;
 - Prepara as alterações dos arquivos.
 - Adiciona os arquivos à área de stage\área de prepapação.
 - Define quais mudanças serão registradas.
 
+PARTE DO TAKEO
+
+
+
+
+# Git config ~ Lucas
+
+- Descrição
+  - é um comando para ler, definir e alterar configuração no git
+  - informanções e preferencias do usuário em 3 niveis diferentes
+     - Local (--local): Afeta apenas o repositório atual. (Armazenado em .git/config)
+     - Global (--global): Afeta todos os repositórios do seu usuário no sistema. (Armazenado em ~/.gitconfig)
+     - Sistema (--system): Afeta todos os usuários e projetos do sistema operacional. (Armazenado em /etc/gitconfig)
+- Exemplos
+  - Configurar o seu nome:
+    - git config --global user.name "Seu Nome"
+  
+  - Configurar o seu e-mail:
+    - git config --global user.email "seu-email@exemplo.com"
+  
+  - Listar todas as configurações ativas:
+    - git config --list    
+
+
+# git commit ~ julio 
+git commit é um comando utilizado no git. 
+O git commit salva alterações feitas pelo git add no histórico do projeto.
+
 git commit;
 - Registra as alterações no histórico do projeto.
 - Cria um ponto de salvamento/versionamento.
-- Normalmente é usado após o git add. 
+- Normalmente é usado após o git add.
+
+# git log ~ eyck
+git log é um comando que mostra a lista cronologica do historico de commits
 
 # Azure ~ turolla
 
@@ -73,4 +102,3 @@ Azure é uma ferramenta do **Azure DevOps** que permite usuarios armazenarem e g
   - seus repositorios da nuvem sao gratuitos
   - permite uma equipe com diversos membros trabalhar na revisão de um codigo
   - Oferece suporte ao Team Foundation Version Control (TFVC).
-  
