@@ -30,7 +30,8 @@ eyck, julio, lucas, pedro takeo, pedro turolla.
 
 
 
-#Azure
+# Azure
 
--principais funções
-       -c
+- principais funções
+  -ocopo
+  
